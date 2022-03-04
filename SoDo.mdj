@@ -11644,11 +11644,11 @@
 												"$ref": "AAAAAAF/UnnloNkDgyQ="
 											},
 											"font": "Arial;13;1",
-											"left": 223,
-											"top": 886,
-											"width": 75,
-											"height": 26,
-											"text": "Tra cứu nhân viên",
+											"left": 226.5,
+											"top": 889.5,
+											"width": 92,
+											"height": 39,
+											"text": "Thống kê số lượng vé bán tại quầy",
 											"wordWrap": true
 										},
 										{
@@ -11680,10 +11680,10 @@
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 218,
-									"top": 879,
-									"width": 85,
-									"height": 38,
+									"left": 221.5,
+									"top": 882.5,
+									"width": 102,
+									"height": 51,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF/UnnloNkEqJE="
 									},
@@ -11782,8 +11782,8 @@
 							"containerChangeable": true,
 							"left": 200,
 							"top": 872,
-							"width": 121,
-							"height": 53,
+							"width": 145,
+							"height": 73,
 							"nameCompartment": {
 								"$ref": "AAAAAAF/UnnloNkDgyQ="
 							},
@@ -11827,8 +11827,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 243,
-									"top": 969,
+									"left": 246,
+									"top": 981,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -11847,8 +11847,8 @@
 										"$ref": "AAAAAAF/UnnmMtnSlQc="
 									},
 									"font": "Arial;13;0",
-									"left": 240,
-									"top": 960,
+									"left": 243,
+									"top": 973,
 									"width": 53.49169921875,
 									"height": 13,
 									"alpha": 2.0809688228801875,
@@ -11870,8 +11870,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 216,
-									"top": 958,
+									"left": 219,
+									"top": 966,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -11889,7 +11889,7 @@
 								"$ref": "AAAAAAF/UnnloNkCzWI="
 							},
 							"lineStyle": 1,
-							"points": "249:925;211:1015",
+							"points": "252:945;214:1015",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAF/UnnmMtnV6K0="
@@ -11940,11 +11940,11 @@
 												"$ref": "AAAAAAF/UnoCy9zfAEA="
 											},
 											"font": "Arial;13;1",
-											"left": 24,
+											"left": 30,
 											"top": 1158,
-											"width": 81,
+											"width": 109,
 											"height": 26,
-											"text": "Số lượng vé bán tại quầy",
+											"text": "Tra cứu lịch sử vé bán",
 											"wordWrap": true
 										},
 										{
@@ -11976,9 +11976,9 @@
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 19,
+									"left": 25,
 									"top": 1151,
-									"width": 91,
+									"width": 119,
 									"height": 38,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF/UnoCy9zgPJw="
@@ -12077,7 +12077,7 @@
 							"font": "Arial;13;0",
 							"containerChangeable": true,
 							"top": 1144,
-							"width": 129,
+							"width": 169,
 							"height": 53,
 							"nameCompartment": {
 								"$ref": "AAAAAAF/UnoCy9zfAEA="
@@ -12122,8 +12122,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 128,
-									"top": 1080,
+									"left": 136,
+									"top": 1081,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -12142,8 +12142,8 @@
 										"$ref": "AAAAAAF/UnoDYd2uvIY="
 									},
 									"font": "Arial;13;0",
-									"left": 79,
-									"top": 1095,
+									"left": 88,
+									"top": 1098,
 									"width": 53.49169921875,
 									"height": 13,
 									"alpha": -3.779495344412343,
@@ -12165,8 +12165,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 149,
-									"top": 1101,
+									"left": 159,
+									"top": 1100,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -12184,7 +12184,7 @@
 								"$ref": "AAAAAAF/UnoCy9zeH28="
 							},
 							"lineStyle": 1,
-							"points": "92:1143;186:1051",
+							"points": "108:1143;188:1051",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAF/UnoDYd2xjig="
@@ -12239,7 +12239,7 @@
 											"top": 1113,
 											"width": 86,
 											"height": 39,
-											"text": "Thống kê doanh thu tại quầy",
+											"text": "Tra cứu doanh thu tại quầy",
 											"wordWrap": true
 										},
 										{
@@ -16079,7 +16079,7 @@
 					"_parent": {
 						"$ref": "AAAAAAF/UmJzPbghx2o="
 					},
-					"name": "Tra cứu nhân viên",
+					"name": "Thống kê số lượng vé bán tại quầy",
 					"ownedElements": [
 						{
 							"_type": "UMLExtend",
@@ -16102,7 +16102,7 @@
 					"_parent": {
 						"$ref": "AAAAAAF/UmJzPbghx2o="
 					},
-					"name": "Số lượng vé bán tại quầy",
+					"name": "Tra cứu lịch sử vé bán",
 					"ownedElements": [
 						{
 							"_type": "UMLExtend",
@@ -16125,7 +16125,7 @@
 					"_parent": {
 						"$ref": "AAAAAAF/UmJzPbghx2o="
 					},
-					"name": "Thống kê doanh thu tại quầy",
+					"name": "Tra cứu doanh thu tại quầy",
 					"ownedElements": [
 						{
 							"_type": "UMLExtend",
